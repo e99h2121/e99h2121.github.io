@@ -1,9 +1,9 @@
 ### Welcome to GitHub Pages.
 <!-- MAIN CONTENT -->
 
-### 筆者
+### Author
 
-#### Nobuko YAMADA(<a href="https://github.com/e99h2121" class="user-mention">@e99h2121</a>). 東京生まれ。10年間東京で勤務 → 2013年から上海 → 2016年4月 東京 → 1女1男 育児中。
+#### Nobuko YAMADA(<a href="https://github.com/e99h2121" class="user-mention">@e99h2121</a>). Born in Tokyo。Working in Tokyo from 2003 → Stayed in Shanghai from 2013 → Back to Tokyo from 2016 → Now working with 2 children.
 
 <h3>
 <a id="from-public-to-private" class="anchor" href="#from-public-to-private" aria-hidden="true"><span class="octicon octicon-link"></span></a>
@@ -19,24 +19,16 @@ From public To private</h3>
     <li><a target="_blank" href="https://www.gitbook.com/@nobukoyamada">Gitbook:</a>
         <ul>
             <li><a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/pathtoshanghai/details">Path To Shanghai</a>
-                <ul>上海在住記
-                </ul>
             </li>
             <li><a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/remote-team-working/details">Remote Team Working</a>
-                <ul>どのように効率的にリモートで働くかの経験まとめ
-                </ul>
             </li>
             <li><a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/good-design/details">Good Design</a>
-                <ul>各種テーマに関する学習記録
-                </ul>
             </li>
             <li><a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/language-learning/details">Language Learning</a>
-                <ul>言語学習に関する考え方まとめ
-                </ul>
             </li>
         </ul>
     </li>
-    <li>写真:
+    <li>Photos:
         <ul>
             <li>Shanghai / 上海
                 <ul>
