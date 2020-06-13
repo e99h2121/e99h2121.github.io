@@ -8,8 +8,8 @@
 #### From public to private
 
 ##### Github:
-      <a href="https://github.com/e99h2121">https://github.com/e99h2121</a>
-      <a href="https://gist.github.com/e99h2121">https://gist.github.com/e99h2121</a>
+###### <a href="https://github.com/e99h2121">https://github.com/e99h2121</a>
+###### <a href="https://gist.github.com/e99h2121">https://gist.github.com/e99h2121</a>
 
 ##### <a target="_blank" href="https://www.gitbook.com/@nobukoyamada">Gitbook:</a>
 ###### <a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/pathtoshanghai/details">Path To Shanghai</a>
