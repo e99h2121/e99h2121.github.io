@@ -12,10 +12,10 @@
 ###### <a href="https://gist.github.com/e99h2121">https://gist.github.com/e99h2121</a>
 
 ##### <a target="_blank" href="https://www.gitbook.com/@nobukoyamada">Gitbook:</a>
-###### <a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/pathtoshanghai/details">Path To Shanghai</a>
-###### <a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/remote-team-working/details">Remote Team Working</a>
-###### <a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/good-design/details">Good Design</a>
-###### <a target="_blank" href="https://www.gitbook.com/book/nobukoyamada/language-learning/details">Language Learning</a>
+###### <a target="_blank" href="https://github.com/e99h2121/gitbook-pathtoshanghai">Path To Shanghai</a>
+###### <a target="_blank" href="https://github.com/e99h2121/gitbook-remoteteamworking">Remote Team Working</a>
+###### <a target="_blank" href="https://github.com/e99h2121/gitbook-gooddesign">Good Design</a>
+###### <a target="_blank" href="https://github.com/e99h2121/gitbook-languagelearning">Language Learning</a>
 
 ##### Photos:
 ###### <a target="_blank" href="https://goo.gl/photos/r8YNBwRCS6V84uvB7">* Life in Shanghai * / 生活</a>
@@ -42,10 +42,9 @@
 ###### <a target="_blank" href="https://goo.gl/photos/PmJqhQKZjYBqSQqj8">KunMing / 昆明</a>
 
 ##### Memo:
+###### <a href="https://twitter.com/e99h2121">https://twitter.com/e99h2121</a>
+###### <a href="https://qiita.com/e99h2121">https://qiita.com/e99h2121</a>
 ###### <a href="https://note.mu/e99h2121">https://note.mu/e99h2121</a>
 ###### <a href="https://instagram.com/e99h2121">https://instagram.com/e99h2121</a>
-###### <a href="https://twitter.com/e99h2121">https://twitter.com/e99h2121</a>
 ###### <a href="http://e99h2121.tumblr.com/">http://e99h2121.tumblr.com</a>
-###### <a href="https://qiita.com/e99h2121">https://qiita.com/e99h2121</a>
-###### wechat: e99h2121
         
