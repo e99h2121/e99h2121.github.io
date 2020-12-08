@@ -44,6 +44,7 @@
 ##### Memo:
 ###### <a href="https://twitter.com/e99h2121">https://twitter.com/e99h2121</a>
 ###### <a href="https://qiita.com/e99h2121">https://qiita.com/e99h2121</a>
+###### <a href="https://qiita.com/e99h2121">https://zenn.dev/e99h2121</a>
 ###### <a href="https://note.mu/e99h2121">https://note.mu/e99h2121</a>
 ###### <a href="https://instagram.com/e99h2121">https://instagram.com/e99h2121</a>
 ###### <a href="http://e99h2121.tumblr.com/">http://e99h2121.tumblr.com</a>
