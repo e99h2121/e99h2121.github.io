@@ -1,21 +1,21 @@
-### Welcome to GitHub Pages.
+### ようこそ
 <!-- MAIN CONTENT -->
 
 ### Author
 
-#### Nobuko YAMADA(<a href="https://github.com/e99h2121" class="user-mention">@e99h2121</a>). Born in Tokyo. Working in Tokyo from 2003 -> Stayed in Shanghai from 2013 -> Back to Tokyo from 2016 -> Now working with 2 children.
+#### Nobuko YAMADA(<a href="https://github.com/e99h2121" class="user-mention">@e99h2121</a>)、東京在住。
 
-#### From public to private
+##### 雑文:
+###### <a href="https://twitter.com/e99h2121">https://twitter.com/e99h2121</a>
+###### <a href="https://qiita.com/e99h2121">https://qiita.com/e99h2121</a>
+###### <a href="https://qiita.com/e99h2121">https://zenn.dev/e99h2121</a>
+###### <a href="https://note.mu/e99h2121">https://note.mu/e99h2121</a>
+###### <a href="https://instagram.com/e99h2121">https://instagram.com/e99h2121</a>
+###### <a href="http://e99h2121.tumblr.com/">http://e99h2121.tumblr.com</a>
 
 ##### Github:
 ###### <a href="https://github.com/e99h2121">https://github.com/e99h2121</a>
 ###### <a href="https://gist.github.com/e99h2121">https://gist.github.com/e99h2121</a>
-
-##### <a target="_blank" href="https://www.gitbook.com/@nobukoyamada">Gitbook:</a>
-###### <a target="_blank" href="https://github.com/e99h2121/gitbook-pathtoshanghai">Path To Shanghai</a>
-###### <a target="_blank" href="https://github.com/e99h2121/gitbook-remoteteamworking">Remote Team Working</a>
-###### <a target="_blank" href="https://github.com/e99h2121/gitbook-gooddesign">Good Design</a>
-###### <a target="_blank" href="https://github.com/e99h2121/gitbook-languagelearning">Language Learning</a>
 
 ##### Photos:
 ###### <a target="_blank" href="https://goo.gl/photos/r8YNBwRCS6V84uvB7">* Life in Shanghai * / 生活</a>
@@ -41,11 +41,4 @@
 ###### <a target="_blank" href="https://goo.gl/photos/6btWRWcHfn5NsrvB7">GuangZhou / 广州</a>
 ###### <a target="_blank" href="https://goo.gl/photos/PmJqhQKZjYBqSQqj8">KunMing / 昆明</a>
 
-##### Memo:
-###### <a href="https://twitter.com/e99h2121">https://twitter.com/e99h2121</a>
-###### <a href="https://qiita.com/e99h2121">https://qiita.com/e99h2121</a>
-###### <a href="https://qiita.com/e99h2121">https://zenn.dev/e99h2121</a>
-###### <a href="https://note.mu/e99h2121">https://note.mu/e99h2121</a>
-###### <a href="https://instagram.com/e99h2121">https://instagram.com/e99h2121</a>
-###### <a href="http://e99h2121.tumblr.com/">http://e99h2121.tumblr.com</a>
         
