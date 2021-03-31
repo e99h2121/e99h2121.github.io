@@ -256,7 +256,7 @@ img {
 }
 
 .blog-section-header {
-  max-width: 200px;
+  max-width: 440px;
   margin: 0 auto 6rem auto;
   border-bottom: 0.2rem solid var(--main-white);
 }
@@ -314,6 +314,11 @@ img {
   max-width: 980px;
   margin-top: 4rem;
   flex-wrap: wrap;
+}
+
+.contact-title:hover {
+  text-decoration-line: underline;
+  text-decoration-color: red;
 }
 
 .contact-details {
