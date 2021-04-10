@@ -1,9 +1,14 @@
+
 /* Custom properties/variables  */
 :root {
+  --main-back: #D38312;  /* fallback for old browsers */
+  --main-back: -webkit-linear-gradient(to left, #A83279, #D38312);  /* Chrome 10-25, Safari 5.1-6 */
+  --main-back: linear-gradient(to left, #A83279, #D38312); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
   --main-white: #f0f0f0;
-  --main-red: #be3144;
-  --main-blue: #45567d;
   --main-gray: #303841;
+  /* --main-red: #be3144; */
+  /* --main-blue: #45567d; */
 }
 
 /* Base reset */
@@ -114,7 +119,7 @@ img {
   top: 0;
   left: 0;
   width: 100%;
-  background: var(--main-red);
+  background: var(--main-back);
   box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
   z-index: 10;
 }
@@ -141,7 +146,7 @@ img {
 }
 
 .nav-list a:hover {
-  background: var(--main-blue);
+  background: var(--main-gray);
 }
 
 /* Welcome section */
@@ -161,7 +166,7 @@ img {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
-  color: var(--main-red);
+  color: var(--main-back);
 }
 
 .welcome-section > p:hover {
@@ -173,7 +178,7 @@ img {
 .photos-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: var(--main-blue);
+  background: var(--main-back);
 }
 
 .photos-section-header {
@@ -252,7 +257,7 @@ img {
 .blog-section {
   text-align: center;
   padding: 10rem 2rem;
-  background: var(--main-blue);
+  background: var(--main-back);
 }
 
 .blog-section-header {
