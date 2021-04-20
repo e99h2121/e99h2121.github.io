@@ -4,7 +4,6 @@
   --main-back: #D38312;  /* fallback for old browsers */
   --main-back: -webkit-linear-gradient(to left, #A83279, #D38312);  /* Chrome 10-25, Safari 5.1-6 */
   --main-back: linear-gradient(to left, #A83279, #D38312); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
   --main-white: #f0f0f0;
   --main-gray: #303841;
   /* --main-red: #be3144; */
