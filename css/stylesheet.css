@@ -81,7 +81,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: 'DotGothic16', sans-serif;
   font-weight: 700;
   text-align: center;
@@ -102,11 +103,6 @@ ul {
 a {
   text-decoration: none;
   color: var(--main-white);
-}
-
-img {
-  display: block;
-  width: 100%;
 }
 
 /* nav */
@@ -171,6 +167,7 @@ img {
 .welcome-section > p:hover {
   text-decoration-line: underline;
 }
+
 
 /* Photos section */
 
