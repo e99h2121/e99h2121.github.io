@@ -160,7 +160,6 @@ a {
 .welcome-section > p {
   font-size: 3rem;
   font-weight: 200;
-  font-style: italic;
   color: var(--main-back);
 }
 
