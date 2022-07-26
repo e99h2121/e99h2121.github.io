@@ -234,10 +234,12 @@ a {
   object-fit: cover;
 }
 
+/*
 .photo-title {
   font-size: 2rem;
   padding: 2rem 0.5rem;
 }
+*/
 
 .photo-mini-title:hover {
   text-decoration-line: underline;
