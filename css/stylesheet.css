@@ -15,7 +15,7 @@ html {
   box-sizing: border-box;
   font-size: 62.5%;
   scroll-behavior: smooth;
-  background-color: #F0F0F0;
+  background-color: #E7E1D7;
 }
 
 /* A few media query to set some font sizes at different screen sizes.
@@ -58,7 +58,7 @@ html {
 
 body {
   /* font-family: 'Rock Salt', sans-serif; */
-  font-family: 'M PLUS 1p';
+  /* font-family: 'M PLUS 1p'; */
   font-size: 1.8rem; /* 18px */
   font-weight: 400;
   line-height: 1.4;
@@ -68,7 +68,8 @@ h1,
 h2,
 h3 {
   /* font-family: 'Rock Salt', sans-serif; */
-  font-family: 'M PLUS 1p';
+  /* font-family: 'M PLUS 1p'; */
+  font-family: "Montserrat","Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   font-weight: 700;
   text-align: center;
 }
@@ -99,7 +100,7 @@ a {
   left: 0;
   width: 100%;
   background: var(--main-back);
-  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0);
   z-index: 10;
 }
 
@@ -112,7 +113,6 @@ a {
   .nav {
     justify-content: center;
   }
-
   .nav-list {
     margin: 0 1rem;
   }
